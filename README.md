@@ -27,4 +27,8 @@ A log only shows up here after I've made a video about it.
 - YouTube: the video for each build
 - LinkedIn: one article on the concept, one on how it was built
 
-First logs are coming soon.
+## Build logs
+
+### content-pipeline
+
+- [A blog writer and a LinkedIn publisher that run on a schedule from voice notes](content-pipeline/2026-11-15-blog-and-linkedin-publisher.md) (2026-11-15, shipped)
