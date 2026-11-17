@@ -8,7 +8,7 @@ builds_on: []
 video: https://www.youtube.com/watch?v=d3C9sbCy2Ck
 articles:
   linkedin: https://www.linkedin.com/pulse/how-attract-car-owners-exotic-rental-fleet-written-ken-van-vorhis-u9soc/
-  x:
+  x: https://x.com/KenVanVorhis/status/2122808501378466120
 ---
 
 # A blog writer and a LinkedIn publisher that run on a schedule from voice notes

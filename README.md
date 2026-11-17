@@ -25,7 +25,8 @@ A log only shows up here after I've made a video about it.
 ## Where to follow along
 
 - YouTube: the video for each build
-- LinkedIn: one article on the concept, one on how it was built
+- LinkedIn: an article on the concept
+- X: an article on how it was built ([@KenVanVorhis](https://x.com/KenVanVorhis))
 
 ## Build logs
 
