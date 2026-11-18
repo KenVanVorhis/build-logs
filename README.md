@@ -33,3 +33,7 @@ A log only shows up here after I've made a video about it.
 ### content-pipeline
 
 - [A blog writer and a LinkedIn publisher that run on a schedule from voice notes](content-pipeline/2026-11-15-blog-and-linkedin-publisher.md) (2026-11-15, shipped)
+
+### platform-profiles
+
+- [One brand description pushed to every platform](platform-profiles/2026-11-16-one-brand-description-every-platform.md) (2026-11-16, shipped)
