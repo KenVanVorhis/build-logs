@@ -8,7 +8,7 @@ builds_on: []
 video: https://www.youtube.com/watch?v=HpFQVPEBj10
 articles:
   linkedin: https://www.linkedin.com/pulse/how-reposition-exotic-car-rental-brand-every-platform-ken-van-vorhis-qiejc/
-  x:
+  x: https://x.com/KenVanVorhis/status/2122875863607701756
 ---
 
 # One brand description pushed to every platform
