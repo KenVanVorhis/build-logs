@@ -50,7 +50,7 @@ I had two AI workflows researching the other agencies in my market, each sending
 - **A weekly run that had quietly stopped.** The audit found the Monday branch of the web collector had ended early for five weeks because one setting was missing from the task. The daily runs were healthy, so nothing looked wrong. Fix: the redesign, and an analyst that reports when a collector didn't write its file.
 - **A scheduled task that couldn't save.** The first run on the new design collected everything and couldn't push to the repo, because the task had been created before the repo existed. A test task created from a session with the repo attached pushed in under a minute. Fix: create the task again.
 - **One agency under two ids.** The two collectors filed the same agency under different ids. Fix: the agency's note is the anchor for its id.
-- **A car read as the wrong car.** The model dictionary read a Nissan GT-R as a Mercedes-AMG GT. Fix: the dictionary, plus five models it was missing.
+- **A car read as the wrong car.** The dictionary of car models read one sports car as a different make's model. Fix: the dictionary, plus five models it was missing.
 - **A side branch.** The analyst's session pushed its work to a side branch nobody else reads. Fix: its routines push to the main branch and confirm it landed.
 - **A look-alike account.** One handle belonged to a different business with a similar name. It wasn't tracked until I said which one I meant.
 - **A late drop.** On the first morning the social collector delivered about an hour and a half after its scheduled time.
