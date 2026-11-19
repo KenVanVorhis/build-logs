@@ -30,6 +30,10 @@ A log only shows up here after I've made a video about it.
 
 ## Build logs
 
+### entity-graph
+
+- [An entity graph for my AI's memory: attribution, typed relationships and dated facts](entity-graph/2026-11-14-an-entity-graph-for-my-ai.md) (2026-11-14, shipped)
+
 ### content-pipeline
 
 - [Build logs to video topics to articles to a public repo](content-pipeline/2026-11-16-build-logs-to-video-topics-to-a-public-repo.md) (2026-11-16, in progress)
