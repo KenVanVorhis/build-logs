@@ -32,6 +32,7 @@ A log only shows up here after I've made a video about it.
 
 ### content-pipeline
 
+- [Build logs to video topics to articles to a public repo](content-pipeline/2026-11-16-build-logs-to-video-topics-to-a-public-repo.md) (2026-11-16, in progress)
 - [A blog writer and a LinkedIn publisher that run on a schedule from voice notes](content-pipeline/2026-11-15-blog-and-linkedin-publisher.md) (2026-11-15, shipped)
 - [One record per video, and a LinkedIn article written from it](content-pipeline/2026-11-10-video-record-and-linkedin-article.md) (2026-11-10, shipped)
 
