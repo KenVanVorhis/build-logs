@@ -30,6 +30,14 @@ A log only shows up here after I've made a video about it.
 
 ## Build logs
 
+### competitor-intel
+
+- [Two competitor collectors, one shared list and one weekly analyst](competitor-intel/2026-11-09-two-collectors-one-list-one-analyst.md) (2026-11-09, shipped)
+
+### vault
+
+- [My AI's memory moved into a private GitHub repo that every tool reads](vault/2026-11-08-ai-memory-in-a-private-github-repo.md) (2026-11-08, shipped)
+
 ### entity-graph
 
 - [An entity graph for my AI's memory: attribution, typed relationships and dated facts](entity-graph/2026-11-14-an-entity-graph-for-my-ai.md) (2026-11-14, shipped)
