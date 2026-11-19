@@ -33,7 +33,9 @@ A log only shows up here after I've made a video about it.
 ### content-pipeline
 
 - [A blog writer and a LinkedIn publisher that run on a schedule from voice notes](content-pipeline/2026-11-15-blog-and-linkedin-publisher.md) (2026-11-15, shipped)
+- [One record per video, and a LinkedIn article written from it](content-pipeline/2026-11-10-video-record-and-linkedin-article.md) (2026-11-10, shipped)
 
 ### platform-profiles
 
 - [One brand description pushed to every platform](platform-profiles/2026-11-16-one-brand-description-every-platform.md) (2026-11-16, shipped)
+- [A map of every editable field on every profile the company controls](platform-profiles/2026-11-11-a-map-of-every-profile-field.md) (2026-11-11, shipped)
