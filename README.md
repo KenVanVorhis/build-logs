@@ -51,5 +51,6 @@ A log only shows up here after I've made a video about it.
 
 ### platform-profiles
 
+- [One ranked list of every backlink and AI citation source, scored two ways](platform-profiles/2026-11-23-one-ranked-list-of-backlinks-and-ai-citation-sources.md) (2026-11-23, shipped)
 - [One brand description pushed to every platform](platform-profiles/2026-11-16-one-brand-description-every-platform.md) (2026-11-16, shipped)
 - [A map of every editable field on every profile the company controls](platform-profiles/2026-11-11-a-map-of-every-profile-field.md) (2026-11-11, shipped)
